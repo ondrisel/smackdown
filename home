@@ -29,8 +29,15 @@
 <fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
 </dir>
 
+    <dir>
+    <title>Tv Channels</title>
+    <Airtable>tv_channels</Airtable>
+    </dir>
+
 <item>
 <title>[B][COLOR orange]SETTINGS[/COLOR][/B]</title>
 <mysettings>0/0</mysettings>
 <info>Open the Settings for the addon on the Customization tab</info>
 </item>
+
+
