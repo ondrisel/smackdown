@@ -6,6 +6,11 @@
 <tmdb>movie/upcoming</tmdb>
 <summary>Shows Trailers For Upcoming Movies</summary>
 </dir>
+
+    <dir>
+        <title>IMDB Upcoming Releases in the US</title>
+        <imdburl>moviecalendar/US</imdburl>
+    </dir>
  
 <dir>
 <title>[B][COLOR orange]FHD REMUX MOVIES[/COLOR][/B]</title>
