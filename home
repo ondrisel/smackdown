@@ -29,10 +29,12 @@
 <fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
 </dir>
 
-    <dir>
-    <title>Tv Channels</title>
-    <Airtable>tv_channels</Airtable>
-    </dir>
+<dir>
+<title>[B][COLOR orange]LIVE TV[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/RCdPsKJM</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
 
 <item>
 <title>[B][COLOR orange]SETTINGS[/COLOR][/B]</title>
