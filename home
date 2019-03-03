@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<dir>
+<title>[B][COLOR orange]UPCOMING MOVIES[/COLOR][/B]</title>
+<tmdb>movie/upcoming</tmdb>
+<summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
  
 <dir>
 <title>[B][COLOR orange]FHD REMUX MOVIES[/COLOR][/B]</title>
