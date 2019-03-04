@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
 
-
-
 <dir>
 <title>[B][COLOR orange]UPCOMING MOVIES[/COLOR][/B]</title>
 <imdburl>moviecalendar/US</imdburl>
+ <thumbnail>https://i.postimg.cc/d1kP34x9/Upcoming-Movies.jpg</thumbnail>
 </dir>
  
 <dir>
@@ -39,14 +38,16 @@
 <dir>
 <title>[B][COLOR orange]LIVE TV[/COLOR][/B]</title>
 <link>https://pastebin.com/raw/RCdPsKJM</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.postimg.cc/s20C3twX/Live-TV.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
 </dir>
 
 <item>
 <title>[B][COLOR orange]SETTINGS[/COLOR][/B]</title>
 <mysettings>0/0</mysettings>
 <info>Open the Settings for the addon on the Customization tab</info>
+<thumbnail>https://i.postimg.cc/PxgGw1Gn/Settings.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
 </item>
 
 
