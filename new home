@@ -43,6 +43,12 @@
 </dir>
 
 <item>
+<title>Custom Mode</title>
+<mode>Whatever</mode>
+<modeurl>query=clear cache</modeurl>
+</item>
+
+<item>
 <title>[B][COLOR orange]SETTINGS[/COLOR][/B]</title>
 <mysettings>0/0</mysettings>
 <info>Open the Settings for the addon on the Customization tab</info>
