@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<?xml-stylesheet href="hide-it.xsl" type="text/xsl"?>
+
+<dir>
+<title>[B][COLOR orange]UPCOMING MOVIES[/COLOR][/B]</title>
+<imdburl>moviecalendar/US</imdburl>
+ <thumbnail>https://i.postimg.cc/d1kP34x9/Upcoming-Movies.jpg</thumbnail>
+</dir>
+ 
+<dir>
+<title>[B][COLOR orange]FHD MOVIES[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/W4Ckrz10</link>
+<thumbnail>https://i.postimg.cc/FKMn2RVR/FHD-1080-P.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</dir>
+ 
+<dir>
+<title>[B][COLOR orange]UHD MOVIES[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/pmYw4aH7</link>
+<thumbnail>https://i.postimg.cc/4dpFZgW1/UHD-2160.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</dir>
+ 
+<dir>
+<title>[B][COLOR orange]TV SHOWS[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/PPUF76jJ</link>
+<thumbnail>https://i.postimg.cc/bwx87P8z/TV-Shows.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR orange]FAMILY[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/yhEFh00r</link>
+<thumbnail>https://i.postimg.cc/CMbcmGG6/Family.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</dir>
+
+<dir>
+<title>[B][COLOR orange]LIVE TV[/COLOR][/B]</title>
+<link>https://pastebin.com/raw/RCdPsKJM</link>
+<thumbnail>https://i.postimg.cc/s20C3twX/Live-TV.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</dir>
+
+<item>
+<title>[B][COLOR orange]SETTINGS[/COLOR][/B]</title>
+<mysettings>0/0</mysettings>
+<info>Open the Settings for the addon on the Customization tab</info>
+<thumbnail>https://i.postimg.cc/PxgGw1Gn/Settings.jpg</thumbnail>
+<fanart>https://i.postimg.cc/QdMP7vMX/fanart.jpg</fanart>
+</item>
